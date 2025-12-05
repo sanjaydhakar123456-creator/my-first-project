@@ -65,3 +65,47 @@
 
 </body>
 </html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f3f3f3;
+}
+
+header {
+    text-align: center;
+    padding: 60px;
+    background: linear-gradient(135deg, #6a11cb, #2575fc);
+    color: white;
+}
+
+.btn {
+    background: white;
+    color: #2575fc;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+.project-card {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 70%;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #222;
+    color: white;
+}
+https://yourusername.github.io/portfolio-website/
+
+
